@@ -7,7 +7,8 @@ const options = {
         hour: 3,
         day: 7,
         week: 4,
-        month: 3
+        month: 3,
+        year: 1
     }
 }
 
