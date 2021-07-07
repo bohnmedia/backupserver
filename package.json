@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/bohnmedia/backupserver/issues"
   },
-  "homepage": "https://github.com/bohnmedia/backupserver#readme"
+  "homepage": "https://github.com/bohnmedia/backupserver#readme",
+  "dependencies": {
+    "archiver": "^5.3.0",
+    "luxon": "^1.27.0"
+  }
 }

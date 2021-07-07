@@ -1,2 +1,4 @@
 .vscode
-urls.txt
+node_modules
+servers.txt
+package-lock.json
