@@ -24,3 +24,12 @@ const options = {
     }
 }
 ```
+
+Folgende Werte stehen zur Verfügung.
+
+* minute
+* hour
+* day
+* week
+* month
+* year
