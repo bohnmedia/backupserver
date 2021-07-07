@@ -1,7 +1,7 @@
 # backupserver
 Backup-Server auf Basis von Node-JS, der in Verbindung mit der Contao-Erweiterung [bohnmedia/contaobackup](https://github.com/bohnmedia/contaobackup) funktioniert.
 
-Damit der Server funktioniert, muss die Datei servers.txt im Root-Verzeichnis erstellt werden. In diese wird pro Zeile der Server samt Backup-Key eingetragen.
+Damit der Server funktioniert, muss die Datei servers.txt im Root-Verzeichnis erstellt werden. In diese wird pro Zeile ein Server samt Backup-Key eingetragen.
 
 ```
 https://www.server1.de/ abcdefghijklmnopqrstuvwxyz123456
