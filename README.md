@@ -33,3 +33,5 @@ Folgende Werte stehen zur Verfügung.
 * week
 * month
 * year
+
+Da das Script je Aufruf nur ein Mal durch läuft, muss es regelmäßig per Cronjob aufgerufen werden.
