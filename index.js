@@ -1,8 +1,8 @@
-const Backup = require('./lib/Backup');
-const Config = require('./lib/Config');
-const Log = require('./lib/Log');
+const Backup = require(__dirname + "/lib/Backup");
+const Config = require(__dirname + "/lib/Config");
+const Log = require(__dirname + "/lib/Log");
 
-const config = new Config('./servers.txt');
+const config = new Config(__dirname + "/servers.txt");
 const options = {
   backupsPerServer: {
     hour: 3,
